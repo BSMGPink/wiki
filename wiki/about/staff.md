@@ -13,7 +13,7 @@ Overseeer of core services, including BeatSaver and BeatMods servers. The origin
 Co-creator of the BSMG as well as Channel Monitor Bot. He's known for his creative stream overlays and amazing ASMR voice.
 
 **Roles:** Admin, Staff, Support, Modder  
-**Contributions:** CMB, BeatMods Approval, Stream Overlays, Moderation, PodCasts, Wiki
+**Contributions:** CMB, BeatMods Approval, Stream Overlays, Moderation, Podcasts, Wiki
 
 [GitHub](https://github.com/megalon) | [Twitch](https://twitch.tv/megalonttv) | [Donate](https://ko-fi.com/megalon)
 
